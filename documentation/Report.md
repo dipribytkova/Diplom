@@ -10,18 +10,19 @@
 * 30% - для PostgreSQL не поддерживаются
 * 20% - провалены
 
-![img.png](img.png)
-![img_1.png](img_1.png)
+![11.png](..%2F..%2F..%2FUsers%2F%C4%E8%E0%ED%E0%2FOneDrive%20-%20OZON%2F%D0%E0%E1%EE%F7%E8%E9%20%F1%F2%EE%EB%2F11.png)
+![12.png](..%2F..%2F..%2FUsers%2F%C4%E8%E0%ED%E0%2FOneDrive%20-%20OZON%2F%D0%E0%E1%EE%F7%E8%E9%20%F1%F2%EE%EB%2F12.png)
+
 
 При подключении к СУБД PostgreSQL
 * 50% - тестов пройдено успешно,
 * 30% - для MySQL не поддерживаются
 * 20% - провалены
 
-![img_2.png](img_2.png)
-![img_3.png](img_3.png)
+![11.png](..%2F..%2F..%2FUsers%2F%C4%E8%E0%ED%E0%2FOneDrive%20-%20OZON%2F%D0%E0%E1%EE%F7%E8%E9%20%F1%F2%EE%EB%2F11.png)
+![12.png](..%2F..%2F..%2FUsers%2F%C4%E8%E0%ED%E0%2FOneDrive%20-%20OZON%2F%D0%E0%E1%EE%F7%E8%E9%20%F1%F2%EE%EB%2F12.png)
 
-[Репорты](https://github.com/8highflyer8/AqaDiploma/issues)  
+[Репорты](https://github.com/dipribytkova/Diplom/issues)  
 В итоге занесено 7 баг-репортов (1 дефект был обнаружен при иследовательском ручном тестировании)  
 Отчеты можно сгенерировать с помощью Gradle, Allure командой  
 `./gradlew clean test --info` и затем после заверешения `./gradlew allureserve`
