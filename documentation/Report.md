@@ -10,17 +10,16 @@
 * 30% - для PostgreSQL не поддерживаются
 * 20% - провалены
 
-![11.png](..%2F..%2F..%2FUsers%2F%C4%E8%E0%ED%E0%2FOneDrive%20-%20OZON%2F%D0%E0%E1%EE%F7%E8%E9%20%F1%F2%EE%EB%2F11.png)
-![12.png](..%2F..%2F..%2FUsers%2F%C4%E8%E0%ED%E0%2FOneDrive%20-%20OZON%2F%D0%E0%E1%EE%F7%E8%E9%20%F1%F2%EE%EB%2F12.png)
-
+![image](https://github.com/dipribytkova/Diplom/assets/126319985/2c556a0c-20e0-474f-8c34-5b9cc08a2e20)
+![image](https://github.com/dipribytkova/Diplom/assets/126319985/439a4dbf-1cf5-4754-bae3-b4c869c1020a)
 
 При подключении к СУБД PostgreSQL
 * 50% - тестов пройдено успешно,
 * 30% - для MySQL не поддерживаются
 * 20% - провалены
 
-![11.png](..%2F..%2F..%2FUsers%2F%C4%E8%E0%ED%E0%2FOneDrive%20-%20OZON%2F%D0%E0%E1%EE%F7%E8%E9%20%F1%F2%EE%EB%2F11.png)
-![12.png](..%2F..%2F..%2FUsers%2F%C4%E8%E0%ED%E0%2FOneDrive%20-%20OZON%2F%D0%E0%E1%EE%F7%E8%E9%20%F1%F2%EE%EB%2F12.png)
+![image](https://github.com/dipribytkova/Diplom/assets/126319985/612c255b-5e60-4c31-9f01-424930586bac)
+![image](https://github.com/dipribytkova/Diplom/assets/126319985/6249efbf-75b2-4c55-81a6-2726a4417c9b)
 
 [Репорты](https://github.com/dipribytkova/Diplom/issues)  
 В итоге занесено 7 баг-репортов (1 дефект был обнаружен при иследовательском ручном тестировании)  
